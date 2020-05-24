@@ -6,6 +6,7 @@
 html, body, #root {
     font-family: 'Montserrat', sans-serif;
     height:100%;
+    background-color:#d3d3d3;;
 }
 .base-frame {
     height:100%;
