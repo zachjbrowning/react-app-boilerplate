@@ -1,5 +1,6 @@
 # React Frontend Dev Boilerplate
 
+
 ## Description
 A good starting point for developing a react app! It uses - 
  - ⚛️ React (DUHH) for the frontend
