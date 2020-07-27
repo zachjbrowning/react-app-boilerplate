@@ -7,6 +7,7 @@ A good starting point for developing a react app! It uses -
  - 🎒 Webpack to bundle up all your modules
  - 🔏 Babel to compile all your javascript
  - ⏩ Express for a minimal backend
+ - 🧰 Redux for state management
 
 ## Developing
 
