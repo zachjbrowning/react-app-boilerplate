@@ -5,10 +5,10 @@
 A good starting point for developing a react app! It uses - 
  - ⚛️ React (DUHH) for the frontend
  - 🧰 Redux for state management
+ - 💅 Bulma for some styling
  - 🎒 Webpack to bundle up all your modules
  - 🔏 Babel to compile all your javascript
  - ⏩ Express for a minimal backend
- - Bulma for some styling
 
 ## Developing
 
